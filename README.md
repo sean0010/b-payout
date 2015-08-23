@@ -3,7 +3,7 @@
 - Language: Node.js
 - Database: Redis
 
-## Feature
+## Features
 1. Admin
   - CRUD approved messages
 2. User
